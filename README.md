@@ -20,7 +20,7 @@ EDA involved exploring the IPL data to answer key questions,such as:
 
 ### Process
 
-- Varify data for any missing values and sort out the same.
+- Verify data for any missing values and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Grouping the data according to the questions asked.
 - Created charts in python plotly to answer the questioned.
