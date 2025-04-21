@@ -10,6 +10,11 @@ in average prices and volumes, highlighting patterns in investor behavior and ma
 
 -<a href="https://www.kaggle.com/datasets/mayankanand2701/samsung-stock-price-dataset">Dataset</a>
 
+### Tools
+-Python-data creating and data manipulating
+-PowerBi-data analysis and visualisation 
+
+
 ### Exploratory Data analysis
 EDA involved exploring the IPL data to answer key questions,such as:
 
@@ -23,7 +28,7 @@ EDA involved exploring the IPL data to answer key questions,such as:
 - Verify data for any missing values and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Grouping the data according to the questions asked.
-- Created charts in python plotly to answer the questioned.
+- Created charts in PowerBi to answer the questioned.
 
 ### Results/Findings
 
