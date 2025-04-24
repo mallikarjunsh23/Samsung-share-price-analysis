@@ -19,8 +19,8 @@ in average prices and volumes, highlighting patterns in investor behavior and ma
 EDA involved exploring the IPL data to answer key questions,such as:
 
 - how the Volume of Stock Traded?
-- what are the Top 5 Dates with Highest Stock Price?
-- what are the Top 5 Dates with Lowest Stock Price?
+- Compare the stock price with volume of stock traded?
+- what are the Top 5 Dates with Lowest Stock Price and Highest Stock Price?
 - find out Mean Variation of High Price and Volume – Daily, Monthly, Yearly?
 
 ### Process
@@ -36,9 +36,9 @@ EDA involved exploring the IPL data to answer key questions,such as:
   share sold at 18th october 2000.
 - By analysing open, close and high all in same graph 11th jan 2021 the share price is high 96800 and that is the
   day highest volume share sold after 2002.
+- find out the top 5 and highest and lowest stock price dates.
 - By using groupby and mean the high volume sold at 31st and price high at 8th day of month,the high volume sold at
   10th month and price high at 4th month of year and the volume of share sele yearly decresing with increasing price.
-- find out top 5 and highest and lowest stock price dates.
 
 ### Final Conclusion
 
